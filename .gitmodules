@@ -1,0 +1,6 @@
+[submodule "cohort-ops"]
+	path = cohort-ops
+	url = git@github.com:whoisasx/Cohort3-DevOps.git
+[submodule "memora"]
+	path = memora
+	url = git@github.com:whoisasx/Memora.git
